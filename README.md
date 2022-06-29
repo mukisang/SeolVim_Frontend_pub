@@ -30,6 +30,10 @@ $ cd SeolVim_Frontend
 ```bash
  $ sh run_SVfront.sh
  ```
+ 
+ ## Picture ##
+ <img width="513" alt="seolvim" src="https://user-images.githubusercontent.com/33710013/176424262-f318881c-3648-44f2-b036-89ee515a944a.PNG">
+
 
 [comment]: <> (Linux에서 실행시키는 방법, Windows에서 실행시키는 방법으로 구분하여 적어넣기)
 
